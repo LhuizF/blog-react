@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@500&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  outline: none;
+}
+
+body {
+  font-family: 'Lexend Deca', sans-serif;
+  background-color: #ebecee;
+}
+
+main {
+  width: 62vw;
+  padding: 50px 0;
+  margin: 0 auto;
+}
+
+@media (max-width: 650px) {
+  main {
+    width: 90vw;
+  }
+}
+/*# sourceMappingURL=style.css.map */

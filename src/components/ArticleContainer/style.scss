@@ -1,0 +1,28 @@
+.article-container{
+    margin: 50px 0;
+    padding: 25px;
+    background-color: #fff;
+
+    p:nth-child(2){
+        font-size: 26px;
+        color: #313131;
+    }
+
+    p {
+        margin: 8px 0;
+        color: #b6b6b6;
+    }
+
+    svg{
+        cursor: pointer;
+
+        &:hover{
+            transform: scale(1.1);
+        }
+    }
+}
+
+.data-container{
+    display: flex;
+    justify-content: space-between;
+}

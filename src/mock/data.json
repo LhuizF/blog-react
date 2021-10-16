@@ -1,0 +1,24 @@
+{
+    "news":[
+        {
+            "date" : "02 de maio. 2021",
+            "title" : "Twitch confirma roubo de informações, mas as palavras passe não foram expostas.",
+            "text" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, accusantium, sequi rerum necessitatibus et quas quisquam quos debitis repellat dolores, blanditiis dicta nobis voluptatem eum ipsum consequuntur minima minus odit!"
+        },
+        {
+            "date" : "05 de abr. 2021",
+            "title" : "Nintendo Switch Online + custará 39.99 euros e chegará no final do mês.",
+            "text" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta molestiae excepturi obcaecati aperiam omnis perspiciatis optio voluptatibus corporis ipsam eius."
+        },
+        {
+            "date" : "12 de fev. 2021",
+            "title" : "Modo Zumbis de Call of Duty Vanguard é revelado.",
+            "text" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cum, magnam?"
+        },
+        {
+            "date" : "04 de jan. 2021",
+            "title" : "Personagem de Round 6 'quebrou' com mercado futuro, entenda os riscos...",
+            "text" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aut ut repellat repellendus!"
+        }
+    ]
+}

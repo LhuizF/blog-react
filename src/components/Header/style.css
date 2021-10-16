@@ -1,0 +1,89 @@
+header {
+  background-image: -webkit-gradient(linear, left top, right top, from(#574ae8), to(#3ea1db));
+  background-image: linear-gradient(to right, #574ae8, #3ea1db);
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  width: 100%;
+}
+
+.container {
+  width: 62%;
+  height: 168px;
+  margin: 41px 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+@media (max-width: 650px) {
+  .container {
+    width: 90%;
+  }
+}
+
+nav {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  font-size: 24px;
+  color: #fff;
+}
+
+label {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  height: 65px;
+  background: rgba(255, 255, 255, 0.2);
+  color: #fff;
+}
+
+label svg {
+  padding: 20px;
+}
+
+label input {
+  width: 100%;
+  height: 50%;
+  background-color: transparent;
+  border: none;
+  font-size: 20px;
+  color: #fff;
+}
+
+label input::-webkit-input-placeholder {
+  color: #fff;
+}
+
+label input:-ms-input-placeholder {
+  color: #fff;
+}
+
+label input::-ms-input-placeholder {
+  color: #fff;
+}
+
+label input::placeholder {
+  color: #fff;
+}
+/*# sourceMappingURL=style.css.map */
